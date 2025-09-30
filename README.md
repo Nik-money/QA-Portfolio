@@ -31,7 +31,7 @@
 ### Значимые баг-репорты:
 1. [Неправильный домен в Share-ссылке](./Test-Documentation/Bug-Reports/SkillCinema/Bug_Report_1_Wrong_Share_Domain.md)
 2. [Неправильное расположение кадров в галерее](./Test-Documentation/Bug-Reports/SkillCinema/Bug_Report_2_Gallery_Layout_Issue.md)
-3. 
+3. [Нестабильное отображение возрастного ограничения](./Test-Documentation/Bug-Reports/SkillCinema/Bug_Report_3_Age_Rating_Inconsistent.md)
 
 ## 📞 Контакты
 *   **Email:** nshkurin@internet.ru
