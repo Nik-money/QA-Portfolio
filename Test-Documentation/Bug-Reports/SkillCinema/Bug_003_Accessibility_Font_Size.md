@@ -36,8 +36,7 @@
 - Интерфейс должен оставаться читаемым и функциональным при любых настройках доступности
 
 ## Прикрепленные файлы
-- [Скриншот с нормальным шрифтом](<img width="388" height="855" alt="image" src="https://github.com/user-attachments/assets/55cdf79d-b456-4a41-bb75-bc9ba1d8cb43" />
-)
+- [Скриншот с нормальным шрифтом](<img width="388" height="855" alt="image" src="https://github.com/user-attachments/assets/55cdf79d-b456-4a41-bb75-bc9ba1d8cb43" />)
 - [Скриншот с увеличенным шрифтом (текст пропал)](https://ru.yougile.com/user-data/b0ea5443-b004-45b1-849d-328d0fb6bccd/image.png?previews[]=-256-preview@193x426)
 - [Скриншот настроек шрифта системы](https://ru.yougile.com/user-data/79550552-9e30-4190-a5f0-2f3c3180eb2d/image.png?previews[]=-256-preview@186x266)
 
