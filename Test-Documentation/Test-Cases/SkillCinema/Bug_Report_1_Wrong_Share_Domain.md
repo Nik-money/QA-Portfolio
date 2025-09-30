@@ -32,8 +32,8 @@
 Должна генерироваться ссылка с доменом `imdb.com` в формате `https://www.imdb.com/title/imdbid/`
 
 ## Прикрепленные файлы
-- [Скриншот Share-диалога](./screenshots/share_dialog.png)
-- [Скриншот сгенерированной ссылки](./screenshots/kinopoisk_url.png)
+- [Скриншот Share-диалога](https://ru.yougile.com/user-data/50f406e5-cb03-4021-b7c1-d2a168bf5685/image.png?previews[]=-256-preview@209x437)
+- [Скриншот сгенерированной ссылки]([./screenshots/kinopoisk_url.png](https://ru.yougile.com/user-data/902d6d4e-0e7f-4413-ae2c-c009f6540f24/image.png?previews[]=-256-preview@256x42))
 
 ## Дополнительная информация
 - **Важность:** Нарушение требований ТЗ, но не критично для основного функционала
